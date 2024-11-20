@@ -1,0 +1,17 @@
+body {
+    background-color: #000000;
+    color: #FFD700;
+}
+
+#loginContainer, #chatContainer {
+    margin-top: 50px;
+}
+
+#chatWindow {
+    background-color: #333333;
+    color: #FFD700;
+}
+
+#usersOnline {
+    margin-bottom: 20px;
+}
